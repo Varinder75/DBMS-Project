@@ -13,7 +13,7 @@ This project scrapes rental data from Kijiji and RentFaster, analyzing it with A
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DBMS-Project.git
+   git clone https://github.com/Varinder75/DBMS-Project/tree/main
 2. Navigate to the project repository:
    ```bash
    cd DBMS-Project
